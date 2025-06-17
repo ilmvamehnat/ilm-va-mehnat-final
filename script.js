@@ -1,0 +1,1 @@
+console.log('Ilm va Mehnat ishlamoqda');
